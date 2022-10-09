@@ -4,3 +4,5 @@
 
 # Css Tutorial
 [tayfun erbilen](https://www.youtube.com/watch?v=XlDMdKznPhU&list=PLfAfrKyDRWrFYc77WNfwQpS9-DBBdir_I)
+
+# JS Tutorial
